@@ -1,0 +1,15 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.container {
+    position: relative;
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+@import "blocks/header";
+@import "blocks/titles";
+@import "blocks/promo"
